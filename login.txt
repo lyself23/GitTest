@@ -7,3 +7,8 @@ void Login2()
 {
 	printf("로그인 기능 추가2");
 }
+
+void Login3()
+{
+	printf("파일추가할 때 필요");
+}
