@@ -11,4 +11,5 @@ void Login2()
 void Login3()
 {
 	printf("파일추가할 때 필요");
+	printf("또추가");
 }
