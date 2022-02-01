@@ -2,3 +2,8 @@ void changeline()
 {
 	printf("라인변경");
 }
+
+void DeleteLine()
+{
+	print("라인삭제");
+}
