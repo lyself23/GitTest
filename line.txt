@@ -2,3 +2,9 @@ void changeline()
 {
 	printf("라인변경");
 }
+
+void ModifyLine()
+{
+	printf("라인수정");
+	printf("라인수정2");
+}
