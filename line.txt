@@ -14,3 +14,8 @@ void DeleteLine()
 	print("라인삭제2");
 	print("여기 긴급 수정해 달라고하네 수정함");
 }
+
+void working()
+{
+	printf("열심히 작업중");
+}
