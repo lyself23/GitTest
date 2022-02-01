@@ -21,6 +21,7 @@ void DeleteLine()
 void working()
 {
 	printf("열심히 작업중");
+	printf("TEST2 기능 추가 위해 작업중");
 }
 
 void SendFile()

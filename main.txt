@@ -2,3 +2,8 @@ void main ()
 {
 	printf("메인");
 }
+
+void New()
+{
+	print("메인");
+}
