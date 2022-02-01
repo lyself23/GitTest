@@ -8,3 +8,9 @@ void ModifyLine()
 	printf("라인수정");
 	printf("라인수정2");
 }
+void DeleteLine()
+{
+	print("라인삭제");
+	print("라인삭제2");
+
+}
