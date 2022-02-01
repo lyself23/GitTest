@@ -19,4 +19,5 @@ void newFeat()
 {
 	printf("새기능 추가하라네");
 	printf("완료");
+	printf("또추가");
 }
