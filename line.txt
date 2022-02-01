@@ -21,3 +21,8 @@ void working()
 {
 	printf("열심히 작업중");
 }
+
+void SendFile()
+{
+	printf("파일추가");
+}
