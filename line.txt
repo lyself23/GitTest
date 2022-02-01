@@ -6,4 +6,5 @@ void changeline()
 void DeleteLine()
 {
 	print("라인삭제");
+	print("라인삭제2");
 }
