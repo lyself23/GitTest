@@ -15,6 +15,7 @@ void DeleteLine()
 	print("여기 긴급 수정해 달라고하네 수정함");
 	printf("또 긴급수정함");
 	printf("긴급수정2차");
+	printf("2차 기능추가 완료");
 }
 
 void working()
