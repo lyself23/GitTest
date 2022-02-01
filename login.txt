@@ -1,0 +1,9 @@
+void Login()
+{
+	printf("로그인 기능 추가");
+}
+
+void Login2()
+{
+	printf("로그인 기능 추가2");
+}
