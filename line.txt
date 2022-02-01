@@ -1,0 +1,4 @@
+void changeline()
+{
+	printf("라인변경");
+}
