@@ -1,6 +1,7 @@
 void changeline()
 {
 	printf("라인변경");
+	printf("또 기능추가");
 }
 
 void ModifyLine()
