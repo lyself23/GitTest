@@ -12,4 +12,11 @@ void Login3()
 {
 	printf("파일추가할 때 필요");
 	printf("또 추가");
+
+}
+
+void newFeat()
+{
+	printf("새기능 추가하라네");
+	printf("완료");
 }
