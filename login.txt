@@ -21,3 +21,8 @@ void newFeat()
 	printf("완료");
 	printf("또추가");
 }
+
+void new2t()
+{
+	printf("새기능 추가하라네");
+}
