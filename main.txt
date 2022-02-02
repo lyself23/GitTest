@@ -13,3 +13,8 @@ void New()
 	printf("feat7에서 추가");
 	printf("feat8에서 추가");
 }
+
+void newconftest2()
+{
+	printf("newconftest2추가");
+}
