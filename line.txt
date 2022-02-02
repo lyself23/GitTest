@@ -35,3 +35,9 @@ void new2()
 	printf("새기능 2 추가");
 }
 
+
+void new()
+{
+	printf("새기능 추가");
+}
+
