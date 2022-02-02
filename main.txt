@@ -1,6 +1,7 @@
 void main ()
 {
 	printf("메인");
+	printf("feattest1 추가");
 }
 
 void New()
