@@ -6,4 +6,5 @@ void main ()
 void New()
 {
 	print("메인");
+	printf("feat7에서 추가");
 }
