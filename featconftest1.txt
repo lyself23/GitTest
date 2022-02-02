@@ -1,4 +1,0 @@
-void featconftest1()
-{
-	신규추가
-}

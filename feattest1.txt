@@ -1,4 +1,0 @@
-void feattest1()
-{
-	신규추가
-}
