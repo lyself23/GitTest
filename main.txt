@@ -18,3 +18,7 @@ void conftest2()
 {
 	추가
 }
+void newconftest2()
+{
+	printf("newconftest2추가");
+}
