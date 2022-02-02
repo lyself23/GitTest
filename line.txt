@@ -29,3 +29,9 @@ void SendFile()
 {
 	printf("파일추가");
 }
+
+void new2()
+{
+	printf("새기능 2 추가");
+}
+
