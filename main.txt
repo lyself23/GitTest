@@ -7,6 +7,8 @@ void main ()
 	printf("이건 추가로 작성2");
 	printf("이건 추가로 작성3");
 	printf("이건 체리픽할거");
+	printf("이건 체리픽이후 작성한거1");
+	printf("이건 체리픽이후 작성한거2");
 }
 
 void New()
