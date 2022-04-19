@@ -2,7 +2,7 @@ void Login()
 {
 	printf("로그인 기능 추가");
 	printf("기능추가");
-	
+	printf("체리픽할거");	
 }
 
 void Login2()
