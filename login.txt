@@ -5,6 +5,7 @@ void Login()
 	printf("체리픽할거");	
 	printf("체리픽이후기능");
 	printf("체리픽이후기능2");
+	printf("site1만 추가함");
 }
 
 void Login2()
