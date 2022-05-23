@@ -1,3 +1,4 @@
+hjhjh
 void main ()
 {
 	printf("메인");
