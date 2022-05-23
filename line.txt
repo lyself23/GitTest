@@ -50,3 +50,11 @@ void new()
 {
 	printf("이할망구 바보 똥멍청이");
 }
+void new()
+{
+	printf("내 남자친구는 귀여워");
+}
+void new()
+{
+	printf("한국 음식 배부르게 먹어보고 싶다");
+}
