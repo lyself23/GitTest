@@ -46,3 +46,12 @@ void new()
 	printf("새기능 추가2");
 }
 
+void new()
+{
+	printf("새기능 추가3");
+}
+void new()
+{
+	printf("이할망구 바보똥멍청이");
+}
+
